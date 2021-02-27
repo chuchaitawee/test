@@ -302,9 +302,10 @@
 
                 <div class="fw-bold">5.1 ออกแบบฐานข้อมูลให้เหมาะสมกับโจทย์ข้างต้นโดยแสดงในรูปแบบ ER Diagram</div>
                 <div>
-                  employee id-employee_name-salary-position_id-branch_id
+                  <!-- employee id-employee_name-salary-position_id-branch_id
                   position id-position_name
-                  branch id-branch_name
+                  branch id-branch_name -->
+                  <img src="er.png" style="width:500px; height:300px;">
                 </div>
 
                 <div class="fw-bold">5.2 ต้องการเพิ่มสาขาที่จังหวัด เชียงใหม่ เชียงรายและภูเก็ต</div>
